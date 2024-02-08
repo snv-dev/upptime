@@ -23,9 +23,6 @@ status-website:
   cname: status.nova.onl
   # baseUrl: /your-repo-name
   logoUrl: https://novaspektrum.no/wp-content/uploads/sites/30/2020/05/Horisontal-Logo.svg
-  name:
-  introTitle: "**NOVA Spektrum** Status Monitor"
-  introMessage: Test
   navbar:
     - title: Status
       href: /
