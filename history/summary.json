@@ -4,19 +4,19 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "down",
-    "uptime": "82.58%",
-    "uptimeDay": "82.58%",
-    "uptimeWeek": "82.58%",
-    "uptimeMonth": "82.58%",
-    "uptimeYear": "82.58%",
-    "time": 1276,
-    "timeDay": 1276,
-    "timeWeek": 1276,
-    "timeMonth": 1276,
-    "timeYear": 1276,
+    "status": "up",
+    "uptime": "66.63%",
+    "uptimeDay": "66.63%",
+    "uptimeWeek": "66.63%",
+    "uptimeMonth": "66.63%",
+    "uptimeYear": "66.63%",
+    "time": 1436,
+    "timeDay": 1436,
+    "timeWeek": 1436,
+    "timeMonth": 1436,
+    "timeYear": 1436,
     "dailyMinutesDown": {
-      "2024-02-08": 29
+      "2024-02-08": 69
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 2620,
-    "timeDay": 2620,
-    "timeWeek": 2620,
-    "timeMonth": 2620,
-    "timeYear": 2620,
+    "status": "up",
+    "uptime": "80.58%",
+    "uptimeDay": "80.58%",
+    "uptimeWeek": "80.58%",
+    "uptimeMonth": "80.58%",
+    "uptimeYear": "80.58%",
+    "time": 2671,
+    "timeDay": 2671,
+    "timeWeek": 2671,
+    "timeMonth": 2671,
+    "timeYear": 2671,
     "dailyMinutesDown": {
-      "2024-02-08": 0
+      "2024-02-08": 40
     }
   },
   {
