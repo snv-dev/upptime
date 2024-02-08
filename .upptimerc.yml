@@ -7,16 +7,45 @@ sites:
     url: https://novaspektrum.no
   - name: Nor-Shipping
     url: https://nor-shipping.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: Lillestrøm Lobby
+    url: https://lillestromlobby.no
+  - name: Oslo Motor Show
+    url: https://oslomotorshow.no
+  - name: Camp Villmark
+    url: https:/campvillmark.no
+  - name: Oslo Desing Fair
+    url: https:/oslodesignfair.no
+  - name: NOVA Talks
+    url: https:/novatalks.no
+  - name: Hagemessen
+    url: https://hagemessen.no
+  - name: Agroteknikk
+    url: https://agroteknikk.no
+  - name: Transport & Logistikk
+    url: https://transport-logistikk.no
+  - name: Park og anleggsmessen
+    url: https://poga.no
+  - name: Automessen
+    url: https://automessen.no
+  - name: UMAMI Arena
+    url: https://umamiarena.no
+  - name: MC-messen
+    url: https://mcmessen.no
+  - name: Dyr for Alle
+    url: https://dyrforalle.no
+  - name: Oslo Dog Show
+    url: https://oslodogshow.no
+  - name: Spektrumkvarteret
+    url: https://spektrumkvarteret.no
+  - name: Lillestrøm NXT
+    url: https://lillestromnxt.no
+  - name: NOVA Studios
+    url: https://novastudios.no
+  - name: NOVA Spektrum Design
+    url: https://novaspektrumdesign.no
+  - name: NOVA Konsert
+    url: https://novakonsert.no
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
