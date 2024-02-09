@@ -12,11 +12,11 @@ sites:
   - name: Oslo Motor Show
     url: https://oslomotorshow.no
   - name: Camp Villmark
-    url: https:/campvillmark.no
+    url: https://campvillmark.no
   - name: Oslo Desing Fair
-    url: https:/oslodesignfair.no
+    url: https://oslodesignfair.no
   - name: NOVA Talks
-    url: https:/novatalks.no
+    url: https://novatalks.no
   - name: Hagemessen
     url: https://hagemessen.no
   - name: Agroteknikk
