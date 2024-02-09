@@ -13,7 +13,7 @@ sites:
     url: https://oslomotorshow.no
   - name: Camp Villmark
     url: https://campvillmark.no
-  - name: Oslo Desing Fair
+  - name: Oslo Design Fair
     url: https://oslodesignfair.no
   - name: NOVA Talks
     url: https://novatalks.no
@@ -51,7 +51,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nova.onl
   # baseUrl: /your-repo-name
-  logoUrl: https://novaspektrum.no/wp-content/uploads/sites/30/2020/05/Horisontal-Logo.svg
+  logoUrl: https://raw.githubusercontent.com/snv-dev/upptime/master/assets/Nova_Spektrum-Logo-Horizontal-hvit.svg
   name: Status
   navbar:
     - title: Status
@@ -60,7 +60,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 i18n:
-  footer: Test
+  footer:  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
