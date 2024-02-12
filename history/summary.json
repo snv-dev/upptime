@@ -350,19 +350,19 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1535,
-    "timeDay": 1566,
-    "timeWeek": 1535,
-    "timeMonth": 1535,
-    "timeYear": 1535,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 1511,
+    "timeDay": 1418,
+    "timeWeek": 1511,
+    "timeMonth": 1511,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2024-02-12": 1
+      "2024-02-12": 6
     }
   },
   {
