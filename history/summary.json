@@ -100,18 +100,20 @@
     "url": "https://oslodesignfair.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslodesignfair.no.ico",
     "slug": "oslo-design-fair",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 360,
     "timeDay": 193,
     "timeWeek": 360,
     "timeMonth": 360,
     "timeYear": 360,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-15": 3
+    }
   },
   {
     "name": "NOVA Talks",
@@ -227,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "99.54%",
+    "uptimeDay": "97.62%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.54%",
+    "uptimeYear": "99.54%",
     "time": 1187,
     "timeDay": 1196,
     "timeWeek": 1187,
     "timeMonth": 1187,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2024-02-15": 24,
+      "2024-02-15": 34,
       "2024-02-13": 10
     }
   },
