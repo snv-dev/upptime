@@ -1,7 +1,7 @@
 url: https://novakonsert.no
-status: up
-code: 200
-responseTime: 953
-lastUpdated: 2024-04-16T23:06:47.829Z
+status: down
+code: 500
+responseTime: 789
+lastUpdated: 2024-04-17T14:57:21.906Z
 startTime: 2024-02-08T23:26:12.601Z
 generator: Upptime <https://github.com/upptime/upptime>
