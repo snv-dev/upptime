@@ -1,7 +1,7 @@
 url: https://hagemessen.no
-status: up
-code: 200
-responseTime: 1036
-lastUpdated: 2024-04-23T23:06:17.117Z
+status: down
+code: 503
+responseTime: 670
+lastUpdated: 2024-04-24T20:10:05.905Z
 startTime: 2024-02-08T23:25:51.460Z
 generator: Upptime <https://github.com/upptime/upptime>
