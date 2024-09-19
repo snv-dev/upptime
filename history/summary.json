@@ -26,18 +26,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 304,
     "timeDay": 116,
     "timeWeek": 168,
     "timeMonth": 168,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2024-02-29": 8,
       "2024-02-18": 8,
       "2024-02-08": 40
     }
@@ -120,7 +119,6 @@
     "timeYear": 1304,
     "dailyMinutesDown": {
       "2024-07-03": 18,
-      "2024-03-11": 11,
       "2024-02-16": 27,
       "2024-02-15": 8
     }
@@ -238,9 +236,9 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -250,6 +248,7 @@
     "timeMonth": 490,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2024-09-19": 0,
       "2024-04-15": 60,
       "2024-03-16": 19,
       "2024-02-16": 24,
@@ -389,7 +388,6 @@
     "timeMonth": 223,
     "timeYear": 499,
     "dailyMinutesDown": {
-      "2024-02-29": 8,
       "2024-02-12": 6
     }
   },
