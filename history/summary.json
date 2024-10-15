@@ -121,19 +121,19 @@
     "url": "https://novatalks.no",
     "icon": "https://icons.duckduckgo.com/ip3/novatalks.no.ico",
     "slug": "nova-talks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1217,
-    "timeDay": 1828,
-    "timeWeek": 1619,
-    "timeMonth": 1506,
-    "timeYear": 1217,
+    "time": 1218,
+    "timeDay": 1651,
+    "timeWeek": 1601,
+    "timeMonth": 1505,
+    "timeYear": 1218,
     "dailyMinutesDown": {
-      "2024-10-15": 0
+      "2024-10-15": 6
     }
   },
   {
