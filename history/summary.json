@@ -65,18 +65,20 @@
     "url": "https://oslomotorshow.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslomotorshow.no.ico",
     "slug": "oslo-motor-show",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1279,
-    "timeDay": 1474,
-    "timeWeek": 1483,
-    "timeMonth": 1426,
-    "timeYear": 1279,
-    "dailyMinutesDown": {}
+    "time": 1275,
+    "timeDay": 948,
+    "timeWeek": 1350,
+    "timeMonth": 1394,
+    "timeYear": 1275,
+    "dailyMinutesDown": {
+      "2024-11-04": 1
+    }
   },
   {
     "name": "Camp Villmark",
