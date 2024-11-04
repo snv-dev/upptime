@@ -65,19 +65,19 @@
     "url": "https://oslomotorshow.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslomotorshow.no.ico",
     "slug": "oslo-motor-show",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1275,
-    "timeDay": 948,
-    "timeWeek": 1350,
-    "timeMonth": 1394,
-    "timeYear": 1275,
+    "time": 1276,
+    "timeDay": 1110,
+    "timeWeek": 1359,
+    "timeMonth": 1395,
+    "timeYear": 1276,
     "dailyMinutesDown": {
-      "2024-11-04": 1
+      "2024-11-04": 10
     }
   },
   {
