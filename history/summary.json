@@ -65,36 +65,40 @@
     "url": "https://oslomotorshow.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslomotorshow.no.ico",
     "slug": "oslo-motor-show",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1289,
     "timeDay": 1303,
     "timeWeek": 1389,
     "timeMonth": 1397,
     "timeYear": 1289,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 10
+    }
   },
   {
     "name": "Camp Villmark",
     "url": "https://campvillmark.no",
     "icon": "https://icons.duckduckgo.com/ip3/campvillmark.no.ico",
     "slug": "camp-villmark",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1407,
     "timeDay": 1520,
     "timeWeek": 1548,
     "timeMonth": 1592,
     "timeYear": 1407,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 8
+    }
   },
   {
     "name": "Oslo Design Fair",
@@ -139,36 +143,40 @@
     "url": "https://hagemessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/hagemessen.no.ico",
     "slug": "hagemessen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1356,
     "timeDay": 1779,
     "timeWeek": 1485,
     "timeMonth": 1535,
     "timeYear": 1356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 7
+    }
   },
   {
     "name": "Agroteknikk",
     "url": "https://agroteknikk.no",
     "icon": "https://icons.duckduckgo.com/ip3/agroteknikk.no.ico",
     "slug": "agroteknikk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1810,
     "timeDay": 1845,
     "timeWeek": 2058,
     "timeMonth": 1994,
     "timeYear": 1810,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 5
+    }
   },
   {
     "name": "Transport & Logistikk",
@@ -193,28 +201,30 @@
     "url": "https://poga.no",
     "icon": "https://icons.duckduckgo.com/ip3/poga.no.ico",
     "slug": "park-og-anleggsmessen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1300,
     "timeDay": 1177,
     "timeWeek": 1343,
     "timeMonth": 1426,
     "timeYear": 1300,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 3
+    }
   },
   {
     "name": "Automessen",
     "url": "https://automessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/automessen.no.ico",
     "slug": "automessen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1182,
@@ -222,7 +232,9 @@
     "timeWeek": 1233,
     "timeMonth": 1277,
     "timeYear": 1182,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-26": 2
+    }
   },
   {
     "name": "UMAMI Arena",
@@ -384,9 +396,9 @@
     "url": "https://novakonsert.no",
     "icon": "https://icons.duckduckgo.com/ip3/novakonsert.no.ico",
     "slug": "nova-konsert",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -396,6 +408,7 @@
     "timeMonth": 1192,
     "timeYear": 1120,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-04-15": 98
     }
   }
