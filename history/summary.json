@@ -318,18 +318,20 @@
     "url": "https://spektrumkvarteret.no",
     "icon": "https://icons.duckduckgo.com/ip3/spektrumkvarteret.no.ico",
     "slug": "spektrumkvarteret",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
-    "timeDay": 588,
-    "timeWeek": 649,
-    "timeMonth": 1128,
-    "timeYear": 1228,
-    "dailyMinutesDown": {}
+    "time": 1226,
+    "timeDay": 611,
+    "timeWeek": 647,
+    "timeMonth": 1112,
+    "timeYear": 1226,
+    "dailyMinutesDown": {
+      "2024-12-05": 0
+    }
   },
   {
     "name": "Lillestrøm NXT",
