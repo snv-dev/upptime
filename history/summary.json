@@ -68,18 +68,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oslomotorshow.no.ico",
     "slug": "oslo-motor-show",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.12%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 1385,
     "timeDay": 2129,
     "timeWeek": 2077,
     "timeMonth": 2139,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-01-13": 21,
+      "2025-01-13": 70,
       "2024-11-26": 21
     }
   },
@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/campvillmark.no.ico",
     "slug": "camp-villmark",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.66%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.22%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.98%",
     "time": 1502,
     "timeDay": 2680,
     "timeWeek": 2184,
     "timeMonth": 2087,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2025-01-13": 19,
+      "2025-01-13": 69,
       "2024-11-26": 19
     }
   },
@@ -110,18 +110,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oslodesignfair.no.ico",
     "slug": "oslo-design-fair",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.76%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.33%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 1550,
     "timeDay": 2823,
     "timeWeek": 2782,
     "timeMonth": 2568,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2025-01-13": 18,
+      "2025-01-13": 67,
       "2024-12-09": 17,
       "2024-07-03": 18
     }
@@ -132,18 +132,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/novatalks.no.ico",
     "slug": "nova-talks",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.44%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.99%",
     "time": 1172,
     "timeDay": 897,
     "timeWeek": 657,
     "timeMonth": 697,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2025-01-13": 16
+      "2025-01-13": 66
     }
   },
   {
@@ -152,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hagemessen.no.ico",
     "slug": "hagemessen",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.54%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.98%",
     "time": 1422,
     "timeDay": 2495,
     "timeWeek": 2012,
     "timeMonth": 1999,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-01-13": 15,
+      "2025-01-13": 64,
       "2024-11-26": 18
     }
   },
@@ -173,18 +173,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/agroteknikk.no.ico",
     "slug": "agroteknikk",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.65%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 1897,
     "timeDay": 3251,
     "timeWeek": 2784,
     "timeMonth": 2738,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2025-01-13": 13,
+      "2025-01-13": 63,
       "2024-11-26": 16
     }
   },
@@ -194,18 +194,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/transport-logistikk.no.ico",
     "slug": "transport-and-logistikk",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 1169,
     "timeDay": 876,
     "timeWeek": 652,
     "timeMonth": 715,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2025-01-13": 12
+      "2025-01-13": 61
     }
   },
   {
@@ -214,18 +214,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/poga.no.ico",
     "slug": "park-og-anleggsmessen",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.80%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 1353,
     "timeDay": 2218,
     "timeWeek": 1864,
     "timeMonth": 1852,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2025-01-13": 11
+      "2025-01-13": 61
     }
   },
   {
@@ -234,18 +234,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/automessen.no.ico",
     "slug": "automessen",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "95.90%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 1116,
     "timeDay": 989,
     "timeWeek": 694,
     "timeMonth": 687,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-01-13": 10
+      "2025-01-13": 59
     }
   },
   {
@@ -253,11 +253,11 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.73%",
     "time": 494,
     "timeDay": 136,
@@ -265,6 +265,7 @@
     "timeMonth": 157,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2025-01-13": 9,
       "2024-09-20": 755,
       "2024-09-19": 428,
       "2024-04-15": 60,
@@ -279,18 +280,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mcmessen.no.ico",
     "slug": "mc-messen",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.01%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 1122,
     "timeDay": 904,
     "timeWeek": 655,
     "timeMonth": 678,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-01-13": 8
+      "2025-01-13": 57
     }
   },
   {
@@ -299,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/dyrforalle.no.ico",
     "slug": "dyr-for-alle",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.11%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.99%",
     "time": 1315,
     "timeDay": 2071,
     "timeWeek": 1854,
     "timeMonth": 1812,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2025-01-13": 7
+      "2025-01-13": 56
     }
   },
   {
@@ -319,18 +320,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/oslodogshow.no.ico",
     "slug": "oslo-dog-show",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 1389,
     "timeDay": 2298,
     "timeWeek": 1929,
     "timeMonth": 1896,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2025-01-13": 5
+      "2025-01-13": 54
     }
   },
   {
@@ -339,18 +340,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spektrumkvarteret.no.ico",
     "slug": "spektrumkvarteret",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.76%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.99%",
     "time": 1156,
     "timeDay": 1063,
     "timeWeek": 693,
     "timeMonth": 696,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2025-01-13": 3
+      "2025-01-13": 53
     }
   },
   {
@@ -359,18 +360,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lillestromnxt.no.ico",
     "slug": "lillestrom-nxt",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "96.43%",
+    "uptimeWeek": "99.49%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.98%",
     "time": 1184,
     "timeDay": 980,
     "timeWeek": 659,
     "timeMonth": 679,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-01-13": 2,
+      "2025-01-13": 51,
       "2024-04-15": 60
     }
   },
@@ -380,18 +381,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/novastudios.no.ico",
     "slug": "nova-studios",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "96.54%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 1222,
     "timeDay": 913,
     "timeWeek": 654,
     "timeMonth": 680,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 50
     }
   },
   {
