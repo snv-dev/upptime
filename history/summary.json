@@ -12,7 +12,7 @@
     "uptimeYear": "99.99%",
     "time": 262,
     "timeDay": 175,
-    "timeWeek": 205,
+    "timeWeek": 192,
     "timeMonth": 167,
     "timeYear": 262,
     "dailyMinutesDown": {
@@ -67,18 +67,19 @@
     "url": "https://oslomotorshow.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslomotorshow.no.ico",
     "slug": "oslo-motor-show",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
     "time": 1385,
     "timeDay": 2129,
     "timeWeek": 2077,
     "timeMonth": 2139,
     "timeYear": 1385,
     "dailyMinutesDown": {
+      "2025-01-13": 21,
       "2024-11-26": 21
     }
   },
@@ -87,18 +88,19 @@
     "url": "https://campvillmark.no",
     "icon": "https://icons.duckduckgo.com/ip3/campvillmark.no.ico",
     "slug": "camp-villmark",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 1502,
     "timeDay": 2680,
     "timeWeek": 2184,
     "timeMonth": 2087,
     "timeYear": 1502,
     "dailyMinutesDown": {
+      "2025-01-13": 19,
       "2024-11-26": 19
     }
   },
@@ -107,11 +109,11 @@
     "url": "https://oslodesignfair.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslodesignfair.no.ico",
     "slug": "oslo-design-fair",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1550,
     "timeDay": 2823,
@@ -119,6 +121,7 @@
     "timeMonth": 2568,
     "timeYear": 1550,
     "dailyMinutesDown": {
+      "2025-01-13": 18,
       "2024-12-09": 17,
       "2024-07-03": 18
     }
@@ -128,36 +131,39 @@
     "url": "https://novatalks.no",
     "icon": "https://icons.duckduckgo.com/ip3/novatalks.no.ico",
     "slug": "nova-talks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1172,
     "timeDay": 897,
     "timeWeek": 657,
     "timeMonth": 697,
     "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 16
+    }
   },
   {
     "name": "Hagemessen",
     "url": "https://hagemessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/hagemessen.no.ico",
     "slug": "hagemessen",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1422,
     "timeDay": 2495,
     "timeWeek": 2012,
     "timeMonth": 1999,
     "timeYear": 1422,
     "dailyMinutesDown": {
+      "2025-01-13": 15,
       "2024-11-26": 18
     }
   },
@@ -166,18 +172,19 @@
     "url": "https://agroteknikk.no",
     "icon": "https://icons.duckduckgo.com/ip3/agroteknikk.no.ico",
     "slug": "agroteknikk",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 1897,
     "timeDay": 3251,
     "timeWeek": 2784,
     "timeMonth": 2738,
     "timeYear": 1897,
     "dailyMinutesDown": {
+      "2025-01-13": 13,
       "2024-11-26": 16
     }
   },
@@ -186,54 +193,60 @@
     "url": "https://transport-logistikk.no",
     "icon": "https://icons.duckduckgo.com/ip3/transport-logistikk.no.ico",
     "slug": "transport-and-logistikk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1169,
     "timeDay": 876,
     "timeWeek": 652,
     "timeMonth": 715,
     "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 12
+    }
   },
   {
     "name": "Park og anleggsmessen",
     "url": "https://poga.no",
     "icon": "https://icons.duckduckgo.com/ip3/poga.no.ico",
     "slug": "park-og-anleggsmessen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 1353,
     "timeDay": 2218,
     "timeWeek": 1864,
     "timeMonth": 1852,
     "timeYear": 1353,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 11
+    }
   },
   {
     "name": "Automessen",
     "url": "https://automessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/automessen.no.ico",
     "slug": "automessen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1116,
     "timeDay": 989,
     "timeWeek": 694,
     "timeMonth": 687,
     "timeYear": 1116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 10
+    }
   },
   {
     "name": "UMAMI Arena",
@@ -265,82 +278,90 @@
     "url": "https://mcmessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/mcmessen.no.ico",
     "slug": "mc-messen",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1122,
     "timeDay": 904,
     "timeWeek": 655,
     "timeMonth": 678,
     "timeYear": 1122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 8
+    }
   },
   {
     "name": "Dyr for Alle",
     "url": "https://dyrforalle.no",
     "icon": "https://icons.duckduckgo.com/ip3/dyrforalle.no.ico",
     "slug": "dyr-for-alle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1315,
     "timeDay": 2071,
     "timeWeek": 1854,
     "timeMonth": 1812,
     "timeYear": 1315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 7
+    }
   },
   {
     "name": "Oslo Dog Show",
     "url": "https://oslodogshow.no",
     "icon": "https://icons.duckduckgo.com/ip3/oslodogshow.no.ico",
     "slug": "oslo-dog-show",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1389,
     "timeDay": 2298,
     "timeWeek": 1929,
     "timeMonth": 1896,
     "timeYear": 1389,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 5
+    }
   },
   {
     "name": "Spektrumkvarteret",
     "url": "https://spektrumkvarteret.no",
     "icon": "https://icons.duckduckgo.com/ip3/spektrumkvarteret.no.ico",
     "slug": "spektrumkvarteret",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.76%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1156,
     "timeDay": 1063,
     "timeWeek": 693,
     "timeMonth": 696,
     "timeYear": 1156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 3
+    }
   },
   {
     "name": "Lillestrøm NXT",
     "url": "https://lillestromnxt.no",
     "icon": "https://icons.duckduckgo.com/ip3/lillestromnxt.no.ico",
     "slug": "lillestrom-nxt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1184,
@@ -349,6 +370,7 @@
     "timeMonth": 679,
     "timeYear": 1184,
     "dailyMinutesDown": {
+      "2025-01-13": 2,
       "2024-04-15": 60
     }
   },
@@ -357,9 +379,9 @@
     "url": "https://novastudios.no",
     "icon": "https://icons.duckduckgo.com/ip3/novastudios.no.ico",
     "slug": "nova-studios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -368,7 +390,9 @@
     "timeWeek": 654,
     "timeMonth": 680,
     "timeYear": 1222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-13": 0
+    }
   },
   {
     "name": "NOVA Spektrum Design",
