@@ -69,9 +69,9 @@
     "slug": "oslo-motor-show",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.13%",
-    "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "89.83%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 1385,
     "timeDay": 2129,
@@ -79,7 +79,7 @@
     "timeMonth": 2139,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2025-01-13": 142,
+      "2025-01-13": 146,
       "2024-11-26": 21
     }
   },
@@ -90,9 +90,9 @@
     "slug": "camp-villmark",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.24%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
     "time": 1502,
     "timeDay": 2680,
@@ -100,7 +100,7 @@
     "timeMonth": 2087,
     "timeYear": 1502,
     "dailyMinutesDown": {
-      "2025-01-13": 141,
+      "2025-01-13": 145,
       "2024-11-26": 19
     }
   },
@@ -111,9 +111,9 @@
     "slug": "oslo-design-fair",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "90.05%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.96%",
     "time": 1550,
     "timeDay": 2823,
@@ -121,7 +121,7 @@
     "timeMonth": 2568,
     "timeYear": 1550,
     "dailyMinutesDown": {
-      "2025-01-13": 139,
+      "2025-01-13": 143,
       "2024-12-09": 17,
       "2024-07-03": 18
     }
@@ -133,9 +133,9 @@
     "slug": "nova-talks",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.45%",
-    "uptimeWeek": "98.64%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.15%",
+    "uptimeWeek": "98.59%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 1172,
     "timeDay": 897,
@@ -143,7 +143,7 @@
     "timeMonth": 697,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2025-01-13": 138
+      "2025-01-13": 142
     }
   },
   {
@@ -153,9 +153,9 @@
     "slug": "hagemessen",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.56%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "98.61%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 1422,
     "timeDay": 2495,
@@ -163,7 +163,7 @@
     "timeMonth": 1999,
     "timeYear": 1422,
     "dailyMinutesDown": {
-      "2025-01-13": 136,
+      "2025-01-13": 140,
       "2024-11-26": 18
     }
   },
@@ -174,9 +174,9 @@
     "slug": "agroteknikk",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.66%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.69%",
+    "uptimeDay": "90.36%",
+    "uptimeWeek": "98.62%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 1897,
     "timeDay": 3251,
@@ -184,7 +184,7 @@
     "timeMonth": 2738,
     "timeYear": 1897,
     "dailyMinutesDown": {
-      "2025-01-13": 134,
+      "2025-01-13": 139,
       "2024-11-26": 16
     }
   },
@@ -195,9 +195,9 @@
     "slug": "transport-and-logistikk",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.77%",
-    "uptimeWeek": "98.68%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.47%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 1169,
     "timeDay": 876,
@@ -205,7 +205,7 @@
     "timeMonth": 715,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2025-01-13": 133
+      "2025-01-13": 137
     }
   },
   {
@@ -215,9 +215,9 @@
     "slug": "park-og-anleggsmessen",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.81%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.51%",
+    "uptimeWeek": "98.64%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 1353,
     "timeDay": 2218,
@@ -225,7 +225,7 @@
     "timeMonth": 1852,
     "timeYear": 1353,
     "dailyMinutesDown": {
-      "2025-01-13": 132
+      "2025-01-13": 137
     }
   },
   {
@@ -235,9 +235,9 @@
     "slug": "automessen",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "90.92%",
-    "uptimeWeek": "98.70%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.62%",
+    "uptimeWeek": "98.66%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 1116,
     "timeDay": 989,
@@ -245,7 +245,7 @@
     "timeMonth": 687,
     "timeYear": 1116,
     "dailyMinutesDown": {
-      "2025-01-13": 131
+      "2025-01-13": 135
     }
   },
   {
@@ -253,19 +253,19 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.73%",
-    "time": 503,
-    "timeDay": 1259,
-    "timeWeek": 524,
-    "timeMonth": 258,
-    "timeYear": 503,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "97.56%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.72%",
+    "time": 502,
+    "timeDay": 1013,
+    "timeWeek": 499,
+    "timeMonth": 259,
+    "timeYear": 502,
     "dailyMinutesDown": {
-      "2025-01-13": 31,
+      "2025-01-13": 35,
       "2024-09-20": 755,
       "2024-09-19": 428,
       "2024-04-15": 60,
@@ -281,9 +281,9 @@
     "slug": "mc-messen",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "91.02%",
-    "uptimeWeek": "98.72%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "98.67%",
+    "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
     "time": 1122,
     "timeDay": 904,
@@ -291,7 +291,7 @@
     "timeMonth": 678,
     "timeYear": 1122,
     "dailyMinutesDown": {
-      "2025-01-13": 129
+      "2025-01-13": 134
     }
   },
   {
@@ -301,9 +301,9 @@
     "slug": "dyr-for-alle",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "91.13%",
-    "uptimeWeek": "98.73%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "98.69%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 1315,
     "timeDay": 2071,
@@ -311,7 +311,7 @@
     "timeMonth": 1812,
     "timeYear": 1315,
     "dailyMinutesDown": {
-      "2025-01-13": 128
+      "2025-01-13": 132
     }
   },
   {
@@ -321,9 +321,9 @@
     "slug": "oslo-dog-show",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.71%",
+    "uptimeDay": "90.93%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "99.97%",
     "time": 1389,
     "timeDay": 2298,
@@ -331,7 +331,7 @@
     "timeMonth": 1896,
     "timeYear": 1389,
     "dailyMinutesDown": {
-      "2025-01-13": 126
+      "2025-01-13": 131
     }
   },
   {
@@ -341,9 +341,9 @@
     "slug": "spektrumkvarteret",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "91.34%",
-    "uptimeWeek": "98.76%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.04%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.97%",
     "time": 1156,
     "timeDay": 1063,
@@ -351,7 +351,7 @@
     "timeMonth": 696,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2025-01-13": 125
+      "2025-01-13": 129
     }
   },
   {
@@ -361,9 +361,9 @@
     "slug": "lillestrom-nxt",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "91.45%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "99.72%",
+    "uptimeDay": "91.15%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.96%",
     "time": 1184,
     "timeDay": 980,
@@ -371,7 +371,7 @@
     "timeMonth": 679,
     "timeYear": 1184,
     "dailyMinutesDown": {
-      "2025-01-13": 123,
+      "2025-01-13": 128,
       "2024-04-15": 60
     }
   },
@@ -381,18 +381,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/novastudios.no.ico",
     "slug": "nova-studios",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "99.97%",
     "time": 1222,
     "timeDay": 913,
     "timeWeek": 654,
     "timeMonth": 680,
     "timeYear": 1222,
     "dailyMinutesDown": {
-      "2025-01-13": 122
+      "2025-01-13": 126
     }
   },
   {
