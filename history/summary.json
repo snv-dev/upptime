@@ -22,19 +22,19 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 283,
-    "timeWeek": 229,
-    "timeMonth": 168,
-    "timeYear": 190,
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 231,
+    "timeDay": 550,
+    "timeWeek": 302,
+    "timeMonth": 189,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 31
     }
   },
   {
