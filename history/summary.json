@@ -4,19 +4,19 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 251,
-    "timeDay": 216,
-    "timeWeek": 242,
-    "timeMonth": 215,
-    "timeYear": 243,
+    "time": 252,
+    "timeDay": 304,
+    "timeWeek": 261,
+    "timeMonth": 221,
+    "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-05-08": 1
+      "2025-05-08": 12
     }
   },
   {
