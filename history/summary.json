@@ -6,37 +6,35 @@
     "slug": "nova-spektrum",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 167,
     "timeWeek": 205,
     "timeMonth": 249,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2025-05-29": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Nor-Shipping",
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 192,
+    "time": 251,
     "timeDay": 281,
     "timeWeek": 216,
     "timeMonth": 203,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2025-05-29": 6,
+      "2025-05-29": 1,
       "2025-04-24": 31
     }
   },
@@ -47,9 +45,9 @@
     "slug": "lillestrom-lobby",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 233,
     "timeDay": 145,
@@ -57,7 +55,6 @@
     "timeMonth": 194,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-05-29": 6,
       "2024-11-29": 459,
       "2024-11-28": 742
     }
