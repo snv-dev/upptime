@@ -4,10 +4,10 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
@@ -15,25 +15,28 @@
     "timeWeek": 214,
     "timeMonth": 253,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-29": 2
+    }
   },
   {
     "name": "Nor-Shipping",
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 191,
+    "time": 192,
     "timeDay": 123,
     "timeWeek": 184,
     "timeMonth": 196,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2025-05-29": 1,
       "2025-04-24": 31
     }
   },
@@ -42,18 +45,19 @@
     "url": "https://lillestromlobby.no",
     "icon": "https://icons.duckduckgo.com/ip3/lillestromlobby.no.ico",
     "slug": "lillestrom-lobby",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 207,
+    "time": 233,
     "timeDay": 190,
     "timeWeek": 183,
     "timeMonth": 197,
     "timeYear": 222,
     "dailyMinutesDown": {
+      "2025-05-29": 1,
       "2024-11-29": 459,
       "2024-11-28": 742
     }
