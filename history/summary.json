@@ -4,11 +4,11 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.13%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "96.53%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 250,
     "timeDay": 227,
@@ -16,7 +16,7 @@
     "timeMonth": 237,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2025-06-01": 56
+      "2025-06-01": 50
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.34%",
-    "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "96.74%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
     "time": 250,
     "timeDay": 256,
     "timeWeek": 219,
     "timeMonth": 208,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-06-01": 53,
+      "2025-06-01": 47,
       "2025-04-24": 31
     }
   },
@@ -409,10 +409,10 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 356,
@@ -421,7 +421,7 @@
     "timeMonth": 409,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-06-01": 42
+      "2025-06-01": 43
     }
   },
   {
