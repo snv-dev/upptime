@@ -4,19 +4,19 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.54%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 249,
-    "timeDay": 161,
-    "timeWeek": 164,
-    "timeMonth": 227,
+    "timeDay": 150,
+    "timeWeek": 159,
+    "timeMonth": 223,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2025-06-01": 50
+      "2025-06-01": 53
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.74%",
-    "uptimeWeek": "99.53%",
+    "uptimeDay": "96.55%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 250,
-    "timeDay": 286,
-    "timeWeek": 226,
+    "timeDay": 271,
+    "timeWeek": 223,
     "timeMonth": 210,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-06-01": 47,
+      "2025-06-01": 50,
       "2025-04-24": 31
     }
   },
@@ -409,19 +409,19 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 356,
-    "timeDay": 180,
-    "timeWeek": 190,
-    "timeMonth": 414,
+    "timeDay": 189,
+    "timeWeek": 193,
+    "timeMonth": 409,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-06-01": 43
+      "2025-06-01": 45
     }
   },
   {
