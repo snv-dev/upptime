@@ -4,29 +4,31 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 250,
     "timeDay": 193,
     "timeWeek": 170,
     "timeMonth": 238,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-01": 5
+    }
   },
   {
     "name": "Nor-Shipping",
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 249,
     "timeDay": 83,
@@ -34,6 +36,7 @@
     "timeMonth": 193,
     "timeYear": 200,
     "dailyMinutesDown": {
+      "2025-06-01": 4,
       "2025-04-24": 31
     }
   },
@@ -260,10 +263,10 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 407,
@@ -272,6 +275,7 @@
     "timeMonth": 184,
     "timeYear": 215,
     "dailyMinutesDown": {
+      "2025-06-01": 2,
       "2025-01-13": 31,
       "2024-09-20": 755,
       "2024-09-19": 428
@@ -405,10 +409,10 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
@@ -416,7 +420,9 @@
     "timeWeek": 196,
     "timeMonth": 437,
     "timeYear": 248,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-01": 1
+    }
   },
   {
     "name": "NOVA Konsert",
