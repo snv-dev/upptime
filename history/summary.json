@@ -4,11 +4,11 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.80%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 250,
     "timeDay": 167,
@@ -16,7 +16,7 @@
     "timeMonth": 231,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-06-01": 46
+      "2025-06-01": 50
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.91%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 249,
     "timeDay": 155,
@@ -36,7 +36,7 @@
     "timeMonth": 192,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-06-01": 45,
+      "2025-06-01": 48,
       "2025-04-24": 31
     }
   },
@@ -263,10 +263,10 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.93%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.76%",
     "time": 405,
@@ -275,7 +275,7 @@
     "timeMonth": 183,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-06-01": 43,
+      "2025-06-01": 45,
       "2025-01-13": 31,
       "2024-09-20": 755,
       "2024-09-19": 428
@@ -409,10 +409,10 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.11%",
-    "uptimeWeek": "99.59%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 357,
@@ -421,7 +421,7 @@
     "timeMonth": 423,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-06-01": 42
+      "2025-06-01": 43
     }
   },
   {
