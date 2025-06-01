@@ -4,10 +4,10 @@
     "url": "https://novaspektrum.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrum.no.ico",
     "slug": "nova-spektrum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.40%",
-    "uptimeWeek": "99.49%",
+    "uptimeDay": "96.49%",
+    "uptimeWeek": "99.50%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.99%",
     "time": 250,
@@ -16,7 +16,7 @@
     "timeMonth": 233,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-06-01": 52
+      "2025-06-01": 51
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://nor-shipping.com",
     "icon": "https://icons.duckduckgo.com/ip3/nor-shipping.com.ico",
     "slug": "nor-shipping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "96.69%",
+    "uptimeWeek": "99.53%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 250,
     "timeDay": 242,
     "timeWeek": 214,
     "timeMonth": 206,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2025-06-01": 49,
+      "2025-06-01": 48,
       "2025-04-24": 31
     }
   },
@@ -263,10 +263,10 @@
     "url": "https://umamiarena.no",
     "icon": "https://icons.duckduckgo.com/ip3/umamiarena.no.ico",
     "slug": "umami-arena",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.76%",
     "time": 405,
@@ -275,7 +275,7 @@
     "timeMonth": 183,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-06-01": 43,
+      "2025-06-01": 45,
       "2025-01-13": 31,
       "2024-09-20": 755,
       "2024-09-19": 428
@@ -409,10 +409,10 @@
     "url": "https://novaspektrumdesign.no",
     "icon": "https://icons.duckduckgo.com/ip3/novaspektrumdesign.no.ico",
     "slug": "nova-spektrum-design",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "99.56%",
+    "uptimeDay": "97.06%",
+    "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 355,
@@ -421,7 +421,7 @@
     "timeMonth": 402,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-06-01": 45
+      "2025-06-01": 43
     }
   },
   {
