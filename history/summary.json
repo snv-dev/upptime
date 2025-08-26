@@ -291,18 +291,19 @@
     "url": "https://mcmessen.no",
     "icon": "https://icons.duckduckgo.com/ip3/mcmessen.no.ico",
     "slug": "mc-messen",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 945,
+    "time": 944,
     "timeDay": 879,
     "timeWeek": 784,
     "timeMonth": 792,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2025-08-26": 1,
       "2025-01-13": 142
     }
   },
@@ -396,9 +397,9 @@
     "slug": "nova-studios",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1063,
     "timeDay": 807,
@@ -406,7 +407,6 @@
     "timeMonth": 1053,
     "timeYear": 989,
     "dailyMinutesDown": {
-      "2025-08-26": 8,
       "2025-04-29": 33,
       "2025-01-13": 134
     }
