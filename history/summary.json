@@ -438,10 +438,10 @@
     "url": "https://novakonsert.no",
     "icon": "https://icons.duckduckgo.com/ip3/novakonsert.no.ico",
     "slug": "nova-konsert",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1364,
@@ -449,6 +449,8 @@
     "timeWeek": 538,
     "timeMonth": 1209,
     "timeYear": 1486,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-26": 1
+    }
   }
 ]
