@@ -51,9 +51,9 @@
     "slug": "lillestrom-lobby",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 203,
     "timeDay": 80,
@@ -61,7 +61,6 @@
     "timeMonth": 181,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2025-09-06": 3,
       "2025-07-25": 125,
       "2024-11-29": 459,
       "2024-11-28": 742
